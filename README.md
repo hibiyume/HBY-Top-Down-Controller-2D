@@ -1,1 +1,2 @@
-Use this file to describe your package's features.
+To install:
+	Simply drag *Player* prefab to the scene
